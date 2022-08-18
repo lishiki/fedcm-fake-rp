@@ -1,0 +1,2 @@
+*{box-sizing:border-box;--mdc-theme-primary: green}body{margin:0;padding:0}.hidden{display:none !important}.content{margin:0 16px 20px 16px;display:flex;align-items:center;flex-direction:column}.center{max-width:500px;display:flex;flex-direction:column;align-items:center}.instructions{color:gray}.credential{margin:10px 0 20px 0;padding:10px}.credential>span{overflow:hidden;font-weight:bold;white-space:nowrap;text-overflow:ellipsis}mwc-button{margin:8px 0}mwc-button a{text-decoration:none;color:inherit}iframe{border:none;width:500px;height:300px}
+*{--mdc-theme-primary: #111;}
